@@ -1,6 +1,6 @@
 
 # Security Design Review Chrome Extension  
-_Comprehensive client‑side VAPT helper (MV3 — v0.50.2)_
+_Comprehensive client‑side VAPT helper_
 
 ---
 
