@@ -84,5 +84,3 @@ Extend `scanScripts`, `scanPhp`, or add new collectors and reference them in `bu
 
 ---
 
-## License
-MIT — free to use, just keep attribution.
